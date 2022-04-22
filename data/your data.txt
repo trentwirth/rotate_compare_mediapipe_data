@@ -1,0 +1,1 @@
+your `.npy` output data could be put here, or you can have the path go to your freemocap output folder
